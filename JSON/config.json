@@ -1,0 +1,12 @@
+{
+    "prefix": ".",
+    "token": "MTE3MjQ4MjkwMjUwODk2MTgyMg.GX6h4h.rPEDEC1Qgniim4QlYM72vMS6sHr7PAgiq2Gw2A",
+    "mongodb" : "mongodb+srv://power:power@uptime.yrvrl2k.mongodb.net/?retryWrites=true&w=majority",
+    "everyoneMention": false,
+    "hostedBy": true,
+    "mongodbURL": "mongodb+srv://power:power@uptime.yrvrl2k.mongodb.net/up",
+    "price": "15000",
+    "owner": "720001232403562597",
+    "priceOne": "3000",
+    "owners": ["720001232403562597"]
+}
